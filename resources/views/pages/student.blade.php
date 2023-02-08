@@ -31,16 +31,16 @@
                   <i class="mdi mdi-account-box"></i> <b>Student code</b> 
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
-                   Tran Duc Phuc
+                   Nguyen Quoc Khanh 
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
-                   duk-fuc
+                   khanh
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
-                   20/07/2003
+                   02/09/2003
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
-                   BH00113
+                   BH00114
                 </div>
               </div>
             </div>
