@@ -42,6 +42,9 @@ Route::get('subject', function () {
 Route::get('login', function () {
     return view('pages.login');
 })->Name('login');
+Route::get('register', function () {
+    return view('pages.register');
+})->Name('register');
 //icon
 Route::get('transcript', function () {
     return view('pages.transcript');
