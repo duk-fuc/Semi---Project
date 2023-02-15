@@ -47,7 +47,7 @@
       </li>
       <li class="nav-item">
         <a class="nav-link" href="class">
-          <span class="menu-title">class</span>
+          <span class="menu-title">Class</span>
           <i class="mdi mdi-table-large menu-icon"></i>
         </a>
       </li>
